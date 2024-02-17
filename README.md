@@ -1,5 +1,13 @@
-# Olá, me chamo Anderson Marques 
-## Bem vindo ao meu perfil GitHub 👋
+# Anderson Marques 
+
+#### 🖥️ Tecnologias e Ferramentas:
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60" vspace="5" hspace="5"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="40" height="40" vspace="5" hspace="5"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="35" height="35" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" vspace="5" hspace="5"/>
+          
+          
+
 
 <!--
 **andersonmarquesgit/andersonmarquesgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
