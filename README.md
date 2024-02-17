@@ -1,4 +1,10 @@
-# Anderson Marques 
+<div dir="auto">
+ <h1 align="left" dir="auto"><a id="user-content-jeniffer-bittencourt" class="anchor" aria-hidden="true" tabindex="-1" href="#jeniffer-bittencourt"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>Anderson Marques</h1>
+  <a href="https://www.linkedin.com/in/anderson-marques-5b1b8b28/" rel="nofollow">
+   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" style="max-width: 100%;" />
+  </a>
+</div>
+
 
 #### 🖥️ Tecnologias e Ferramentas:
 
