@@ -5,11 +5,20 @@
   </a>
 </div>
 <h2 dir="auto">Hi, devs!!!</h2>
+<p>📍 Sou um paraibano que vive em SP 🌵 
+Nômade de cidades, pessoas e ideias. Cientista da computação e tecnologista apaixonado por Black Music, R&B, Brasilidades e Baiana System (merece destacar rsrs), inspirado em motivar pessoas através de liderança compartilhada, arquitetura e colaboração entre times de engenharia de software. 🖥️
+</p>
+<p align="center"><img <img src="https://media1.tenor.com/m/wW2HwZr1x_sAAAAd/childish-gambino-this-is-america.gif" width="683" height="456.460396039604" alt="Childish Gambino This Is America GIF - Childish Gambino This Is America Donald Glover GIFs" style="max-width: 683px;"></p>  
+  
 🖥️ Tecnologias e Ferramentas:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60" vspace="5" hspace="5"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="40" height="40" vspace="5" hspace="5"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" width="35" height="35" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" vspace="5" hspace="5"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40" height="40" vspace="5" hspace="5"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="40" height="40" vspace="5" hspace="5" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="40" height="40" vspace="5" hspace="5" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" width="40" height="40" vspace="5" hspace="5" />
+
+
+
           
           
 - 🔭 I’m currently working on ...
