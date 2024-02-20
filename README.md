@@ -5,7 +5,7 @@
   </a>
 </div>
 <h2 dir="auto">E aí devs!?</h2>
-<p>📍 Sou um paraibano que vive em SP 🌵 
+<p>📍 Paraibano que vive em SP 🌵 
 Nômade de cidades, pessoas e ideias. Cientista da computação e tecnologista apaixonado por Black Music, R&B, Brasilidades e Baiana System (merece destacar rsrs). Inspirado em motivar pessoas através de liderança compartilhada, arquitetura de soluções e colaboração entre times de engenharia de software. 🖥️
 </p>
 <p align="center"><img <img src="https://media1.tenor.com/m/wW2HwZr1x_sAAAAd/childish-gambino-this-is-america.gif" width="683" height="456.460396039604" alt="Childish Gambino This Is America GIF - Childish Gambino This Is America Donald Glover GIFs" style="max-width: 683px;"></p>  
